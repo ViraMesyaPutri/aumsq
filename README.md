@@ -1,2 +1,0 @@
-# aumsq
-LINE BOT
